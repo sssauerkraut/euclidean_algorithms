@@ -16,6 +16,7 @@ A collection of efficient algorithms for number theory computations with detaile
 - Maintains coefficients throughout the computation
 
 ### 3. Euclidean Algorithm with "Truncated" Remainders
+- Like first one, but uses rounded quotient
 
 ## Usage
 
